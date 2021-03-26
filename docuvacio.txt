@@ -3,3 +3,5 @@ Ya el docu no esta vacio, tiene texto
 Me llamo Carlos
 
 Tiene 22 años
+
+Quiere una moto
